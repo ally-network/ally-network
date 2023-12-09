@@ -1,0 +1,5 @@
+name: AllyCore
+version: 2.1-legacy
+api: 4.0.0
+author: BeAlly
+main: ally\core\Core
